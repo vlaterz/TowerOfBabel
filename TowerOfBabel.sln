@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfBabel", "TowerOfBabel\TowerOfBabel.csproj", "{793FB01E-2C37-49F9-91D4-9791CFC6B261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793FB01E-2C37-49F9-91D4-9791CFC6B261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793FB01E-2C37-49F9-91D4-9791CFC6B261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793FB01E-2C37-49F9-91D4-9791CFC6B261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793FB01E-2C37-49F9-91D4-9791CFC6B261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E406A416-9159-4416-A21C-65D1A6E193C6}
+	EndGlobalSection
+EndGlobal
